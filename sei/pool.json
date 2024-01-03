@@ -11069,4 +11069,14 @@
     "type": "xyk",
     "lp_token_id": "sei1zq2mleg8r9l9sa7x350wtvqety0l5crvv9a6znz634cwdjpec36slquzlx"
   }
-]
+]{
+    "id": "sei13lkca8qa0zs2svc9ysdqs6cdsjwsruesx39rjphp63andz7wduasretjlf",
+    "asset_ids": [
+      "sei13lkca8qa0zs2svc9ysdqs6cdsjwsruesx39rjphp63andz7wduasretjlf",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "sei1vcgnp7ucsg82xq947e00ywmq76v3taxma0adyzemx5kv0qwldgdq2lhcjy"
+  },
+
