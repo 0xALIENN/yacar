@@ -14706,4 +14706,11 @@
     "decimals": "6",
     "type": "native"
   }
-]
+{
+    "id": "sei1pcfdlgkaqsckyc7eew86j99cepd8spr9yeph47np6cpajmq8tjhspelxnu",
+    "name": "SEC",
+    "symbol": "SEC",
+    "decimals": "6",
+    "type": "cw20"
+"total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1pcfdlgkaqsckyc7eew86j99cepd8spr9yeph47np6cpajmq8tjhspelxnu/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
