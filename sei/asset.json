@@ -16589,4 +16589,11 @@
     "decimals": "6",
     "type": "native"
   }
-]
+  {
+    "id": "sei1eaq9zclwp4sqv5d89js4p9aej9wzfxe67aec4gnx3txtz7rd8zcqlt23wf",
+    "name": "SeijiLabs",
+    "symbol": "Seiji",
+    "decimals": "6",
+    "type": "cw20"
+"total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei1eaq9zclwp4sqv5d89js4p9aej9wzfxe67aec4gnx3txtz7rd8zcqlt23wf/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
