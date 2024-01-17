@@ -16916,4 +16916,12 @@
     "decimals": "6",
     "type": "native"
   }
-]
+]{
+    "id": "sei16l9cxc2vhkcvj4clm7wwvay87vkeenjttvgtvdknqtydm6nnwxwqwyqk0j",
+    "name": "SeiCat",
+    "symbol": "SEICAT",
+    "decimals": "6",
+    "type": "cw20"
+"total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei16l9cxc2vhkcvj4clm7wwvay87vkeenjttvgtvdknqtydm6nnwxwqwyqk0j/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+
