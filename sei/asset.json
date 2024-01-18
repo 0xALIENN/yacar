@@ -16916,4 +16916,11 @@
     "decimals": "6",
     "type": "native"
   }
-]
+]{
+    "id": "sei12f39xfg97jurrgx4u6zhdwf4vp94282a3g52mehf4t9wew5xs22qrg28eq",
+    "name": "FUCKSHADOW",
+    "symbol": "FUCK",
+    "decimals": "6",
+    "type": "cw20"
+"total_supply_api": "https://lcd-sei.whispernode.com/cosmwasm/wasm/v1/contract/sei12f39xfg97jurrgx4u6zhdwf4vp94282a3g52mehf4t9wew5xs22qrg28eq/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
