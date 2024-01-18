@@ -27149,4 +27149,14 @@
     "type": "xyk",
     "lp_token_id": "sei1zq2mleg8r9l9sa7x350wtvqety0l5crvv9a6znz634cwdjpec36slquzlx"
   }
-]
+]{
+    "id": "sei12f39xfg97jurrgx4u6zhdwf4vp94282a3g52mehf4t9wew5xs22qrg28eq",
+    "asset_ids": [
+      "sei12f39xfg97jurrgx4u6zhdwf4vp94282a3g52mehf4t9wew5xs22qrg28eq",
+      "usei"
+    ],
+    "dex": "Astroport",
+    "type": "pcl",
+    "lp_token_id": "sei1r0tz7859u6wlljqyh2xxd3e05mzgkdukm26s8s90uctln7ypewysuzes68"
+  },
+
